@@ -1,0 +1,4 @@
+﻿  math_2-random.cpp
+C:\Users\karak\OneDrive\Рабочий стол\C-plus-plus__projects\My projects\math_2-random\math_2-random\math_2-random.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LINK : не найден или не выполнена сборка C:\Users\karak\OneDrive\Рабочий стол\C-plus-plus__projects\My projects\math_2-random\Debug\math_2-random.exe при последней инкрементной компоновке; выполняется полная компоновка
+  math_2-random.vcxproj -> C:\Users\karak\OneDrive\Рабочий стол\C-plus-plus__projects\My projects\math_2-random\Debug\math_2-random.exe
